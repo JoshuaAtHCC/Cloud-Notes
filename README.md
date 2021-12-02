@@ -1,5 +1,3 @@
-# Repository Tree
-```
 .
 ├── 1-Git
 │   ├── Lecture_Git.md
@@ -11,7 +9,9 @@
 ├── 4-Lambda
 │   ├── Lecture_Lambda.md
 │   └── Lecture_Lambda.pdf
+├── 5-CloudFormation
+│   ├── Lecture_CloudFormation.md
+│   └── Lecture_CloudFormation.pdf
 └── README.md
 
-4 directories, 7 files
-```
+5 directories, 9 files
